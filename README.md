@@ -19,7 +19,7 @@ The objective of the Online Examination  Tool is to provide better information f
 
 • Front-End: HTML,CSS
 
-• Back-End: MySQL
+• Back-End: MySQL,PHP
 
 • Web Server: Apache SERVER.
      
