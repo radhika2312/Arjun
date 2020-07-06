@@ -97,8 +97,7 @@ html {
         <p class="title">Team Cool girls</p>
         <p>First year studenst,Computer science department.</p>
         <p>Motilal nehru National inistitute of technology</p>
-        <p>radhikaguptabwr@gmail.com</p>
-        <p>Contact:9140637711</p>
+        
       </div>
     </div>
   </div>
@@ -113,8 +112,7 @@ html {
         <p class="title">Team Cool girls</p>
         <p>First year studenst,Computer science department.</p>
         <p>Motilal nehru National inistitute of technology</p>
-        <p>ap.mit2704@gmail.com</p>
-        <p>Contact:8542876267</p>
+        
       </div>
     </div>
   </div>
